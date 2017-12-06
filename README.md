@@ -1,4 +1,4 @@
-# Hello
+# Hello world!
 
 The first Community application (iOS & Android) dedicated to the outputs and events in real time, integrating its own decentralized crypto-currency based on the blockchain Ethereum, and usable anywhere in the world.
 
@@ -7,6 +7,7 @@ Outing token system consists of multiple smart contracts written in Solidity pro
 These contracts were thoroughly tested and all parts were double checked many times. If you are a 'smart contracts' developer and see how these contracts can be optimized even better and made more efficient, please contact us.
 
 The Outing Token sale will start on 11th of December, 2017. 
+
 More details: https://www.outing-app.com
 
 Contact -> contact@outing-app.com
@@ -21,6 +22,7 @@ Plusieurs contrats intelligents ont été écrit en langage de programmation Sol
 Ces contrats ont été soigneusement testés et toutes les pièces ont été vérifiées plusieurs fois. Si vous êtes un développeur de «contrats intelligents» et que vous voyez comment ces contrats peuvent être optimisés et rendus plus efficaces, contactez-nous.
 
 La vente des jetons de sortie débutera le 11 décembre 2017.
+
 Plus de détails: https://www.outing-app.com
 
 Contact -> contact@outing-app.com
