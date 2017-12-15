@@ -303,7 +303,6 @@ contract OutingToken is Token{
     //Outing Reserve wallet that will be unlocked after 0.5 year after ICO
     address public constant OUTINGRESERVE = /* Coming soon */;
     //Team wallet that will be unlocked after 1 year after ICO
-
     address public constant TEAM = /* Coming soon */;
     //0.5 year after ICO
     uint256 public UNLOCK_OUTINGRESERVE = now + 262800 minutes;
