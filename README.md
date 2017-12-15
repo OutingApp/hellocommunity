@@ -21,7 +21,7 @@ Plusieurs contrats intelligents ont été écrit en langage de programmation Sol
 
 Ces contrats ont été soigneusement testés et toutes les pièces ont été vérifiées plusieurs fois. Si vous êtes un développeur de «contrats intelligents» et que vous voyez comment ces contrats peuvent être optimisés et rendus plus efficaces, contactez-nous.
 
-La vente des jetons de sortie débutera le 8 Janvier 2018.
+La vente des tokens débutera le 8 Janvier 2018.
 
 Plus de détails: https://www.outing-app.com
 
