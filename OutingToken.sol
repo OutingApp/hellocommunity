@@ -1,4 +1,4 @@
-pragma solidity ^0.4.18;
+pragma solidity ^0.4.19;
 
 contract ERC20 {
 
@@ -301,9 +301,10 @@ contract OutingToken is Token{
 
     //Tokens allocation
     //Outing Reserve wallet that will be unlocked after 0.5 year after ICO
-    address public constant OUTINGRESERVE = /* Coming soon */;
+    address public constant OUTINGRESERVE = 0xB8E6C4Eab5BC0eAF1f3D8A9a59a8A26112a56fE2;
     //Team wallet that will be unlocked after 1 year after ICO
-    address public constant TEAM = /* Coming soon */;
+
+    address public constant TEAM = 0x0702dd2f7DC2FF1dCc6beC2De9D1e6e0d467AfaC;
     //0.5 year after ICO
     uint256 public UNLOCK_OUTINGRESERVE = now + 262800 minutes;
     //1 year after ICO
@@ -315,10 +316,10 @@ contract OutingToken is Token{
 
     //56%
     uint256 private constant OUTINGRESERVE_THOUSANDTH = 560;
-    //8%
-    uint256 private constant TEAM_THOUSANDTH = 80;
-    //36%
-    uint256 private constant ICO_THOUSANDTH = 360;
+    //7%
+    uint256 private constant TEAM_THOUSANDTH = 70;
+    //37%
+    uint256 private constant ICO_THOUSANDTH = 370;
     //100%
     uint256 private constant DENOMINATOR = 1000;
 
